@@ -1,0 +1,44 @@
+{
+  "product": [
+    {
+      "name": "Men Lather Jacket",
+      "price": 63.99,
+      "newPrice": 58.99,
+      "points": 4.6,
+      "reviews": "1.2k reviews",
+      "description": "Lorem ipsum dolor sit amet consectetur. Ornare urna eleifend hac egestas ut eu. Hac amet aliquet hac lobortis neque tortor. Ornare urna eleifend hac egestas ut eur. Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
+      "colorOptions": ["#000000", "#EC9E08", "#1A5EE3", "#F05A5A"],
+      "image": "cardList.png"
+    },
+    {
+      "name": "Women Blazer",
+      "price": 28.99,
+      "newPrice": 24.99,
+      "points": 4.5,
+      "reviews": "1.5k reviews",
+      "description": "Lorem ipsum dolor sit amet consectetur. Ornare urna eleifend hac egestas ut eu. Hac amet aliquet hac lobortis neque tortor. Ornare urna eleifend hac egestas ut eur. Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
+      "colorOptions": ["#000000", "#EC9E08", "#1A5EE3", "#F05A5A"],
+      "image": "cardList2.png"
+    },
+    {
+      "name": "Kid Shirt",
+      "price": 14.99,
+      "newPrice": 9.99,
+      "points": 4.7,
+      "reviews": "2.5k reviews",
+      "description": "Lorem ipsum dolor sit amet consectetur. Ornare urna eleifend hac egestas ut eu. Hac amet aliquet hac lobortis neque tortor. Ornare urna eleifend hac egestas ut eur. Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
+      "colorOptions": ["#000000", "#EC9E08", "#1A5EE3", "#F05A5A"],
+      "image": "cardList3.png"
+    },
+    {
+      "name": "Men T-shirt",
+      "price": 19.99,
+      "newPrice": 16.99,
+      "points": 4.5,
+      "reviews": "1.4k reviews",
+      "description": "Lorem ipsum dolor sit amet consectetur. Ornare urna eleifend hac egestas ut eu. Hac amet aliquet hac lobortis neque tortor. Ornare urna eleifend hac egestas ut eur. Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
+      "colorOptions": ["#000000", "#EC9E08", "#1A5EE3", "#F05A5A"],
+      "image": "cardList4.png"
+    }
+  ]
+}
